@@ -2,8 +2,11 @@
 
 
 <p align="center">
-Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse
+<strong>Authors:</strong> Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse <br>
+<a href="https://doi.org/10.5281/zenodo.8173672" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Link to Paper</a>
 </p>
+
+
 
 ## Description
 This repository contains the code of *On the Reproducibility of CartoonX*. 
